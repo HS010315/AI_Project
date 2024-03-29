@@ -1,6 +1,7 @@
 # AI_Project
+Stable Diffusion 수업 정리 자료 
 
-MarkDown 내용정리
+MarkDown 내용 정리
 
 <!-- Heading -->
 
@@ -22,29 +23,29 @@ MarkDown 내용정리
 + 스트라이크쓰루 : ~~스트라이크쓰루~~
 
 <!-- Quote -->
-> 마크다운 쿼트
+> 마크다운 쿼트 
 
 <!-- Bullet List -->
-아이템 리스트
+아이템 리스트 
 * 아이템 1
 * 아이템 2
 
-<!-- Number List -->
+<!-- Numbered List -->
 숫자 리스트 : 
 
 1. 숫자 1
 2. 숫자 2
 3. 숫자 3
 
-<!-- link -->
-Click [My Git Hub](https://github.com/HS010315/AI_Project)
+<!--Link -->
+Click [My Git hub](https://github.com/내주소)
 
 <!-- Image -->
-![image](https://upload3.inven.co.kr/upload/2023/10/29/bbs/i14640845171.jpg?MW=800)
+![image]()
 
-<!--Table-->
+<!-- Table -->
 
-|Header|Description|Other|
+|Header|Description|other|
 |--:|:--|:--:|
 |Cell1|Cell2|Cell3|
 |Cell1|Cell2|Cell3|
@@ -52,13 +53,14 @@ Click [My Git Hub](https://github.com/HS010315/AI_Project)
 |Cell1|Cell2|Cell3|
 |Cell1|Cell2|Cell3|
 
+
 :-- 좌 정렬
 --: 우 정렬
 :--: 중앙 정렬
 
 <!-- Code -->
 
-debug console sample `Debug.log("--")`
+debug console Sample `Debug.log("--")`
 
 ```C#
 Debug.Log(Message)
