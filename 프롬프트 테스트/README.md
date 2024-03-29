@@ -1,7 +1,7 @@
 
 
 ---
-![image](https://github.com/shingugitvr000/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00008-3267005075.png?raw=true)
+![image](https://github.com/HS010315/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00008-3267005075.png?raw=true)
 
 parameters
 
@@ -15,11 +15,11 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2680059640, Size: 512x5
 
 
 
-![image](https://github.com/shingugitvr000/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00047-2131923721.png?raw=true)
+![image](https://github.com/HS010315/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00047-2131923721.png?raw=true)
 
 ### Adtailer 사용 전후 
 
-![image](https://github.com/shingugitvr000/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00048-2131923721.png?raw=true
+![image](https://github.com/HS010315/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00048-2131923721.png?raw=true
 )
 
 parameters
@@ -34,18 +34,24 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2131923721, Size: 512x5
 inpaint
 ---
 
-![image](https://github.com/shingugitvr000/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00011-882899961.png?raw=true
+![image](https://github.com/HS010315/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00009-3022211192.png?raw=true
 )
 
-![image](https://github.com/shingugitvr000/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00009-3022211192.png?raw=true
+![image](https://github.com/HS010315/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00011-882899961.png?raw=true
 )
 
 ---
 i2i
 ---
 
-![image](https://github.com/shingugitvr000/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B7%B8%EB%A6%BC1.png?raw=true
+![image](https://github.com/HS010315/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B7%B8%EB%A6%BC1.png?raw=true
 )
 
-![image](https://github.com/shingugitvr000/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00015-836832196.png?raw=true
+![image](https://github.com/HS010315/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00015-836832196.png?raw=true
 )
+
+![image](https://github.com/HS010315/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/thumb-4de78f87eff7548b627c50732fea47b2_1678242098_8877_800x1200.png?raw=true)
+
+![image](https://github.com/HS010315/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00002-1545505036.png?raw=true)
+
+![image](https://github.com/HS010315/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00005-1200136290.png?raw=true)
